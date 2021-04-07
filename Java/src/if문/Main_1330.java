@@ -1,3 +1,4 @@
+package if문;
 
 import java.util.Scanner;
 

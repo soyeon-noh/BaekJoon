@@ -1,3 +1,4 @@
+package if문;
 import java.util.*;
 
 public class Main_9498 {
