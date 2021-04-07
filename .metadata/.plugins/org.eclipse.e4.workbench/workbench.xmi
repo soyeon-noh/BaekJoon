@@ -2,7 +2,7 @@
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_JrhYAJImEeu9TOZKr6NvkQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_JrhYAZImEeu9TOZKr6NvkQ" bindingContexts="_Jrh_GJImEeu9TOZKr6NvkQ">
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;workbench>&#xA;&lt;mruList>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main_2753.java&quot; tooltip=&quot;Java/src/Main_2753.java&quot;>&#xA;&lt;persistable path=&quot;/Java/src/Main_2753.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main_9498.java&quot; tooltip=&quot;Java/src/Main_9498.java&quot;>&#xA;&lt;persistable path=&quot;/Java/src/Main_9498.java&quot;/>&#xA;&lt;/file>&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main_1330.java&quot; tooltip=&quot;Java/src/Main_1330.java&quot;>&#xA;&lt;persistable path=&quot;/Java/src/Main_1330.java&quot;/>&#xA;&lt;/file>&#xA;&lt;/mruList>&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_JrhYAZImEeu9TOZKr6NvkQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_KIMF4JImEeu9TOZKr6NvkQ" label="%trimmedwindow.label.eclipseSDK" x="420" y="165" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_JrhYAZImEeu9TOZKr6NvkQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_KIMF4JImEeu9TOZKr6NvkQ" label="%trimmedwindow.label.eclipseSDK" x="416" y="132" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -376,7 +376,7 @@
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_z9vMkJT8EeuzD63z0CanVA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Main_2753.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main_2753.java&quot; partName=&quot;Main_2753.java&quot; title=&quot;Main_2753.java&quot; tooltip=&quot;Java/src/Main_2753.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Java/src/Main_2753.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;26&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main_2753.java&quot; partName=&quot;Main_2753.java&quot; title=&quot;Main_2753.java&quot; tooltip=&quot;Java/src/Main_2753.java&quot;>&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Java/src/Main_2753.java&quot;/>&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;468&quot; selectionTopPixel=&quot;0&quot;/>&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>removeOnHide</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
@@ -599,7 +599,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_KLeqcJImEeu9TOZKr6NvkQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_qnD-EJRtEeuzD63z0CanVA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_JtB0eZImEeu9TOZKr6NvkQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_oT7N8JYGEeuNeYuB2sxzcg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_JtB0eZImEeu9TOZKr6NvkQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_KLfRgJImEeu9TOZKr6NvkQ" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -639,7 +639,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_KLfRh5ImEeu9TOZKr6NvkQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_qnKEsJRtEeuzD63z0CanVA" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_JtB0IJImEeu9TOZKr6NvkQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_oT_fYJYGEeuNeYuB2sxzcg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_JtB0IJImEeu9TOZKr6NvkQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_KLf4kJImEeu9TOZKr6NvkQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -1439,7 +1439,7 @@
     <bindings xmi:id="_JuIAIJImEeu9TOZKr6NvkQ" keySequence="ALT+CR" command="_Js_-y5ImEeu9TOZKr6NvkQ"/>
   </bindingTables>
   <bindingTables xmi:id="_Ju8fcJImEeu9TOZKr6NvkQ" contributorURI="platform:/fragment/org.eclipse.e4.ui.workbench.renderers.swt.cocoa" bindingContext="_Jrh_G5ImEeu9TOZKr6NvkQ">
-    <bindings xmi:id="_qMIVkJRtEeuzD63z0CanVA" keySequence="M1+W" command="_Ju7RVJImEeu9TOZKr6NvkQ"/>
+    <bindings xmi:id="_nyvMcJYGEeuNeYuB2sxzcg" keySequence="M1+W" command="_Ju7RVJImEeu9TOZKr6NvkQ"/>
   </bindingTables>
   <bindingTables xmi:id="_KQGEsZImEeu9TOZKr6NvkQ" bindingContext="_KQGEsJImEeu9TOZKr6NvkQ"/>
   <bindingTables xmi:id="_KQHS0ZImEeu9TOZKr6NvkQ" bindingContext="_KQHS0JImEeu9TOZKr6NvkQ"/>
